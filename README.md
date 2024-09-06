@@ -45,7 +45,6 @@ Essa aplicação é um projeto de paixão, criado para celebrar a história do f
 * HTML
 * CSS
 * JavaScript
-* JSON
 
 **Agradecimentos:**
 
