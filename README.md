@@ -17,15 +17,8 @@ Por trás de toda essa facilidade, tem um monte de código trabalhando duro. A a
 
 É super fácil! Basta digitar o nome do jogador que você quer pesquisar no campo de busca e clicar no botão "Buscar". Pronto! A aplicação vai procurar por esse jogador no nosso banco de dados e te mostrar todos os resultados que encontrar.
 
-**O que você pode fazer?**
 
-* **Pesquisar por qualquer jogador:** Desde os mais famosos até aqueles que você só conhece de nome.
-* **Ler sobre a carreira dos jogadores:** Descobrir quais times eles já jogaram, quais títulos conquistaram e muito mais.
-* **Ver fotos e vídeos:** Aprender mais sobre a história do futebol através de imagens e vídeos.
-
-**O que ainda falta?**
-
-A aplicação ainda está em desenvolvimento, mas já dá para ter uma ideia do potencial. No futuro, podemos adicionar:
+**O que ainda falta?** A aplicação ainda está em desenvolvimento, mas já dá para ter uma ideia do potencial. No futuro, podemos adicionar:
 
 * **Mais jogadores:** Aumentar o nosso banco de dados para incluir mais lendas do futebol.
 * **Filtros de pesquisa:** Permitir que você pesquise por jogadores de um determinado time, posição ou nacionalidade.
@@ -40,16 +33,6 @@ Se você é um desenvolvedor e quer ajudar a melhorar a aplicação, fique à vo
 
 Essa aplicação é um projeto de paixão, criado para celebrar a história do futebol e compartilhar essa paixão com outras pessoas. Espero que você goste!
 
-**Tecnologias Utilizadas:**
-
-* HTML
-* CSS
-* JavaScript
-
-**Agradecimentos:**
-
-Agradeço a todos que contribuíram para a criação desta aplicação.
-
 **Próximos Passos:**
 
 * Adicionar mais jogadores ao banco de dados
@@ -57,23 +40,10 @@ Agradeço a todos que contribuíram para a criação desta aplicação.
 * Criar um modo escuro
 * Permitir o compartilhamento nas redes sociais
 
-**Licença:**
+**Licença:** Este projeto está licenciado sob a licença MIT.
 
-Este projeto está licenciado sob a licença MIT.
+**Contato:** Para entrar em contato, envie um e-mail para lopeseric325@gmail.com
 
-**Contato:**
-
-Para entrar em contato, envie um e-mail para lopeseric325@gmail.com
-
-**Contribuições:**
-
-Contribuições são bem-vindas! Por favor, abra um issue ou um pull request.
-
-**Agradecimentos:**
-
-Agradeço a todos que contribuíram para este projeto. Obrigado ao Google e a Alura!!.
-
-**Recursos:**
+**Agradecimentos:** Agradeço ao Google e a Alura!!.
 
 * Repositório do projeto: https://github.com/EricLopes325/teste-imersao
-* Documentação: ...
